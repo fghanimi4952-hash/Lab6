@@ -59,11 +59,11 @@ Chaque élément affiche le nom du plat et son prix sur une ligne.
 
 ## Fonctionnalités
 
-- ✅ Affichage d'une liste organisée par sections
-- ✅ En-têtes de section avec style personnalisé
-- ✅ Séparateurs entre les éléments
-- ✅ Footer intégré dans la liste scrollable
-- ✅ Styles cohérents avec la maquette (fond sombre, texte clair)
+-  Affichage d'une liste organisée par sections
+-  En-têtes de section avec style personnalisé
+-  Séparateurs entre les éléments
+-  Footer intégré dans la liste scrollable
+-  Styles cohérents avec la maquette (fond sombre, texte clair)
 
 ## Technologies utilisées
 
